@@ -35,7 +35,7 @@
           "alias": "OpenRouter"
         }
       },
-      "workspace": "/root/.openclaw/workspace"
+      "workspace": "$HOME/.openclaw/workspace"
     },
     "list": [
       {
@@ -44,8 +44,8 @@
       {
         "id": "franklincritic",
         "name": "franklinCritic",
-        "workspace": "/root/.openclaw/workspace-franklincritic",
-        "agentDir": "/root/.openclaw/agents/franklincritic/agent"
+        "workspace": "$HOME/.openclaw/workspace-franklincritic",
+        "agentDir": "$HOME/.openclaw/agents/franklincritic/agent"
       }
     ]
   },
